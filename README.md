@@ -22,13 +22,11 @@ React 19 · TypeScript · TanStack Start · Tailwind CSS · Bun · Cloudflare Wo
 
 ## Run locally
 
+Download and extract the [project source ZIP](https://github.com/magsud-taghiyev/xazar-piciltisi/raw/refs/heads/main/xazar-piciltisi-source.zip), then run these commands from the extracted folder:
+
 ```sh
 bun install
 bun run dev
 ```
 
-Create a production build with `bun run build`. The live concept is hosted at [xazar-piciltisi.xezernagmesi.workers.dev](https://xazar-piciltisi.xezernagmesi.workers.dev/).
-
-## Downloadable source
-
-[Download the project source ZIP](https://d2ol7oe51mr4n9.cloudfront.net/user_3M3PdWHrOkdokpbO7WSEDcFX6wU/b9778232-bdc1-44d6-ac55-671bf39bec75.zip) — React source, project assets, and setup files.
+Create a production build with `bun run build`. The live website is [xazar-piciltisi.xezernagmesi.workers.dev](https://xazar-piciltisi.xezernagmesi.workers.dev/).
